@@ -1,0 +1,2 @@
+Vehicle Capacity: 1
+Current Load: 0
